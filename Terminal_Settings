@@ -1,0 +1,5 @@
+1) Copy Selection to Clipboard:
+-----------------------------------
+Preferences -> General -> Clipboard -> Automatically copy selection to keyboard
+Select the Text -> It will be copied
+Press 'Ctrl + Shift + v' to Insert
