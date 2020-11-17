@@ -1,0 +1,8 @@
+Enable Windows Key for Start Menu:
+------------------------------------
+
+1) Open Start Menu
+2) Keyboard
+3) Application Shortcuts
+4) Edit 'xfce4-popup-whiskermenu' shortcut
+5) Modify Shortcut as Windows Key - It will come as Super L
