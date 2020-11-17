@@ -1,0 +1,9 @@
+After Fresh Install Xubuntu - Maximize VM Screen:
+----------------------------------------------------
+
+1) sudo apt-get update
+2) sudo apt-get install build-essential gcc make perl dkms
+3) reboot
+
+4) cd /media/xubuntu/VBox_GAs_6.1.16/
+5) ./autorun.sh 
