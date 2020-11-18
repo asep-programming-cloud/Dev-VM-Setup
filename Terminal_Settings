@@ -3,3 +3,15 @@
 Preferences -> General -> Clipboard -> Automatically copy selection to keyboard
 Select the Text -> It will be copied
 Press 'Ctrl + Shift + v' to Insert
+
+2) Font Size and Appearance:
+--------------------------------
+Preferences -> Appearance -> Increase font size to 12
+Uncheck -> Allow Bold Text
+Uncheck-> Display menubar in New Windows
+Check -> Use custom styling to make tabs slim
+
+
+
+
+Keyboard Shortcut to close tab
