@@ -1,0 +1,9 @@
+sudo apt update
+
+1) Git:
+-----------
+sudo apt install git
+
+2) Visual Studio Code:
+------------------------
+Start Menu -> Softwares -> Visual Studio Code -> Install
