@@ -18,4 +18,8 @@ Preferences -> Colors -> Background Color
 
 
 
-Keyboard Shortcut to close tab
+Keyboard Shortcuts:
+-----------------------------
+Open New Tab          Ctrl + Shift + t
+Close tab             Ctrl + Shift + w
+Close Window          Ctrl + Shift + q
