@@ -13,5 +13,6 @@ Omit --global to set the identity only in this repository.
 ------------------------
 Start Menu -> Softwares -> Visual Studio Code -> Install
 
-3) Pip3
+3) Pip3:
+----------
 sudo apt install python3-pip
