@@ -1,0 +1,7 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Monokai ST3",
+    "workbench.colorCustomizations": {
+        "editor.background":"#000000"
+    }
+}
