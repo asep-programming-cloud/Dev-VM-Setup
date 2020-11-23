@@ -1,0 +1,12 @@
+First time:
+---------------
+xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ python3 -m venv AUTH
+xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ source AUTH/bin/activate
+(AUTH) xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ 
+
+To use again:
+----------------
+xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ ls
+AUTH
+xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ source AUTH/bin/activate
+(AUTH) xubuntu@Xubuntu-VirtualBox:~/GitHub/Login_And_Session_Python$ 
