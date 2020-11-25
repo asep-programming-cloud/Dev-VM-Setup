@@ -2,6 +2,9 @@
     "window.menuBarVisibility": "toggle",
     "workbench.colorTheme": "Monokai ST3",
     "workbench.colorCustomizations": {
-        "editor.background":"#000000"
-    }
+        "editor.background":"#000000",
+        "editor.foreground": "#d1d7e0"
+    },
+    "editor.renderLineHighlight": "gutter",
+    "workbench.iconTheme": "vscode-icons"
 }
