@@ -17,3 +17,11 @@ Start Menu -> Softwares -> Visual Studio Code -> Install
 ----------
 sudo apt install python3-pip
 sudo apt install python3-venv
+
+4) Vim:
+---------
+sudo apt intall vim
+
+5) Ifconfig/Netstat:
+------------------------
+sudo apt install net-tools
